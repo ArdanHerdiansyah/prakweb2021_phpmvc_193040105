@@ -1,12 +1,11 @@
-<html>
+<div class="container">
 
-    <head>
-        <title>Halaman Home</title>
-        
-        </head>
+<div class ="jumbotron mt-4">
+        <h1 class="display-4">Selamat Datang di Website Saya</h1>
+        <p class="lead">soaishhsjaxksa</p>
+        <hr class="my-4"> 
+        <p>asgahsjajksalkshasiajsa</p>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn More</a>
+</div>
 
-    <body>
-        <h1>Selamat Datang di Website Saya</h1>
-    </body>
-
-</html>
+</div>
